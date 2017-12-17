@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.lib.spring3.MYECLIPSE_SPRING30_CORE"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.lib.spring3.MYECLIPSE_SPRING30_Persistence_JDBC"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.lib.spring3.MYECLIPSE_SPRING30_Persistence_CORE"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.lib.spring3.MYECLIPSE_SPRING30_AOP"/>
+	<classpathentry kind="lib" path="G:/NABI/IEEE2014_Modification/Mona Secure Multi-Owner Data Sharing for Dynamic Groups in the Cloud/Sourcecode/lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="G:/NABI/IEEE2014_Modification/Mona Secure Multi-Owner Data Sharing for Dynamic Groups in the Cloud/Sourcecode/lib/bcprov-jdk15-138.jar"/>
+	<classpathentry kind="lib" path="G:/NABI/IEEE2014_Modification/Mona Secure Multi-Owner Data Sharing for Dynamic Groups in the Cloud/Sourcecode/lib/jcommon-1.0.16.jar"/>
+	<classpathentry kind="lib" path="G:/NABI/IEEE2014_Modification/Mona Secure Multi-Owner Data Sharing for Dynamic Groups in the Cloud/Sourcecode/lib/jfreechart-1.0.13.jar"/>
+	<classpathentry kind="lib" path="G:/NABI/IEEE2014_Modification/Mona Secure Multi-Owner Data Sharing for Dynamic Groups in the Cloud/Sourcecode/lib/laf.jar"/>
+	<classpathentry kind="lib" path="G:/NABI/IEEE2014_Modification/Mona Secure Multi-Owner Data Sharing for Dynamic Groups in the Cloud/Sourcecode/lib/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="G:/NABI/IEEE2014_Modification/Mona Secure Multi-Owner Data Sharing for Dynamic Groups in the Cloud/Sourcecode/lib/substance-5.0.jar"/>
+	<classpathentry kind="lib" path="G:/NABI/IEEE2014_Modification/Mona Secure Multi-Owner Data Sharing for Dynamic Groups in the Cloud/Sourcecode/lib/substance-lite.jar"/>
+	<classpathentry kind="lib" path="G:/NABI/IEEE2014_Modification/Mona Secure Multi-Owner Data Sharing for Dynamic Groups in the Cloud/Sourcecode/lib/swing-layout-1.0.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
